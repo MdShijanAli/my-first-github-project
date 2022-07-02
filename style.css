@@ -1,0 +1,42 @@
+div p{
+    color:blue;
+    text-align: justify;
+    font-weight:300;
+}
+.blog{
+background-color: aqua;
+padding:20px;
+border: 2px solid #333;
+border-radius:20px;
+margin-bottom:20px;
+}
+span{
+color:red;
+}
+h1{
+text-align: center;
+color:blue;
+}
+
+.blog-2{
+background-color: rgb(0, 255, 60);
+padding:20px;
+border: 2px dotted #333;
+border-radius:20px;
+margin-bottom:20px;
+}
+.blog-3{
+background-color: aquamarine;
+padding:20px;
+border: 2px dashed #333;
+border-radius:20px;
+}
+
+
+h4{
+    display:inline;
+}
+
+small{
+    display:block;
+}
